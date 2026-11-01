@@ -4,4 +4,4 @@
 # - Find import config:
 # Paste the config in
 
-What to paste? https://github.com/scripture2025/ForkConfigBW/blob/main/Fork
+What to paste? https://github.com/scripture2025/ForkConfigBW/blob/main/ForkV2
